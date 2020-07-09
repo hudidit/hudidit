@@ -1,4 +1,8 @@
-### Hi there 👋
+### About me
+
+- Full-time front-end engineer since 2014. I've been working on a lot of projects on desktop (mostly using React) and mobile (PWA & AMP). 
+- Recently I'm doing kernel development for MiniProgram base on Electron.
+- Goals of 2020: Develop one open source project and try to make it awesome.
 
 <!--
 **hudidit/hudidit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
