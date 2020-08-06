@@ -1,7 +1,7 @@
 ### About me
 
 - Full-time front-end engineer since 2014. I've been working on a lot of projects on desktop (mostly using React) and mobile (PWA & AMP). 
-- Recently I'm doing kernel development for MiniProgram base on Electron.
+- Recently I'm doing kernel development for MiniProgram based on Electron.
 - Goals of 2020: Develop one open source project and try to make it awesome.
 
 <!--
